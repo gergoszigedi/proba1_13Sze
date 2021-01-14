@@ -1,8 +1,12 @@
 body{
-    background-color: bisque;
+    background-color: #ffe4c4;
     padding: 50px 100px;
 }
 
-h1{
+h1, h2{
     color:brown;
+}
+
+p{
+    text-align: justify;
 }
